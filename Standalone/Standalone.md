@@ -3,3 +3,5 @@
 * Call of Chernobyl (1.5 R6): [Download](https://www.moddb.com/mods/call-of-chernobyl)
 
 * STALKERSOUP (1.1.0017): [Download](https://www.moddb.com/mods/stalkersoup)
+
+* Wind of Time (1.3): [Download](https://www.moddb.com/mods/wind-of-time)
