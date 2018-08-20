@@ -7,3 +7,8 @@
 * STALKERSOUP (1.1.0017): [Download](https://www.moddb.com/mods/stalkersoup)
 
 * Wind of Time (1.3): [Download](https://www.moddb.com/mods/wind-of-time)
+
+* Dead Air (?): [Game](https://drive.google.com/file/d/1OGyH0uWJhdUVzZ_xRcl6ZqNXmoT6Oht7/view) | [English Translation](https://github.com/Appuruu/dead-air-english-translation)
+
+* Anomaly Repack (1.3.3): [Download](https://www.moddb.com/mods/stalker-anomaly)
+
