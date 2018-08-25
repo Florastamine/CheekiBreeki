@@ -12,3 +12,7 @@
 
 * Anomaly Repack (1.3.3): [Download](https://www.moddb.com/mods/stalker-anomaly)
 
+* Call of Misery (1.0d Fix 2): [Download](https://www.moddb.com/mods/stalker-com)
+
+* Last Day (1.3 Patch 2): [Download](https://www.moddb.com/mods/stalker-last-day)
+
