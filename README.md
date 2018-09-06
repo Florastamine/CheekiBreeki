@@ -1,6 +1,6 @@
 # Awesome S.T.A.L.K.E.R. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/)
+## [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/)
 
 | Name 	| Description 	| Latest Current/Experimental 	| Screenshot 	|
 |:----------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|------------	|
@@ -11,14 +11,14 @@
 | [AMK: Autumn Edition](https://www.moddb.com/mods/amk-autumn-edition) 	| AMK Autumn Edition - AMK with Autumn Aurora 2.1 	| Current: [AMK 1.4.1 Autumn Edition 3.1](https://www.moddb.com/mods/amk-autumn-edition/downloads/amk-141-autumn-edition-30) + [Patch](https://www.moddb.com/mods/amk-autumn-edition/downloads/amk-141-autumn-edition-fixes) 	|  	|
 | [Complete](https://www.moddb.com/mods/stalker-complete-2009) 	| ? 	| Current: [1.4.4](https://www.moddb.com/mods/stalker-complete-2009/downloads/stalker-complete-2009-14) (2009/09/25) 	|  	|
 
-* [S.T.A.L.K.E.R.: Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/)
+## [S.T.A.L.K.E.R.: Clear Sky](https://store.steampowered.com/app/20510/STALKER_Clear_Sky/)
 
 | Name 	| Description 	| Latest Current/Experimental 	| Screenshot 	|
 |:----------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|------------	|
 | [Sky Reclamation Project (SRP)](https://www.moddb.com/mods/srp) 	| The Sky Reclamation Project (SRP) is a community patch to address bugs that remain in S.T.A.L.K.E.R.: Clear Sky after the official patch v1.5.10. 	| Current: [SRP 1.1.2](https://www.moddb.com/mods/srp/downloads/srp-v112) (2017/01/29)|  	|
 | [Complete](https://www.moddb.com/mods/clear-sky-complete) 	| ? 	| Current: [1.1.3](https://www.moddb.com/mods/clear-sky-complete/downloads/clear-sky-complete) (2010/03/28) 	|  	|
 
-* [S.T.A.L.K.E.R.: Call of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/)
+## [S.T.A.L.K.E.R.: Call of Pripyat](https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/)
 
 * Mod Flowchart
 ![](https://raw.githubusercontent.com/Florastamine/CheekiBreeki/master/README.png)
