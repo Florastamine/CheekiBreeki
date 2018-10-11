@@ -1,5 +1,7 @@
 # Awesome S.T.A.L.K.E.R. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This repository hosts a list of the most common S.T.A.L.K.E.R. mods, updated regularly.
+
 ## [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/)
 
 | Name 	| Description 	| Latest Current/Experimental 	| Screenshot 	|
